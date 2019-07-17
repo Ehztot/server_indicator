@@ -1,4 +1,5 @@
 .cfg
+
 ~/lgsm/config-lgsm/inssserver
 에 넣어주기
 
