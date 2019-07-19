@@ -7,5 +7,6 @@
 .txt
 .ini
 
-~/serverfiles/Insurgency/saved/config/linuxserver
-에 넣어주기
+~/serverfiles/Insurgency/Config/Server
+에 넣어주기 없을 경우 경로 디렉토리 생성
+
